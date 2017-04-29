@@ -6,7 +6,7 @@ $el = new CIBlockElement;
 
 $arLoadProductArray = Array(
   "MODIFIED_BY"    		=> $USER->GetID(), // элемент изменен текущим пользователем
-  "CODE"				=> "my_infoblock_element",
+  "CODE"				=> "my_infoblock_element_2",
   "IBLOCK_SECTION_ID" 	=> false,          // элемент лежит в корне раздела
   "IBLOCK_ID"      		=> 5,
   "NAME"           		=> "Ёлемент",
